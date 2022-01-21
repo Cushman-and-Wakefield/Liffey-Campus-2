@@ -78,9 +78,9 @@ define([
             buildingIDname: "BuildId",                   // building attribute (int)
             areaname: "RentTotal",                           // area attribute (float)
             color: [                                        // color ramp for unique value renderer
-                    [166, 25, 46, 1],                     
-                    [255, 153, 153, 1],
-                    [155, 211, 221, 1],
+                    [178, 171, 210, 1],                     
+                    [253, 174, 97, 1],
+                    [50, 136, 189, 1],
                     [102, 194, 165, 1],
                     [230, 245, 152, 1],
                     [213, 62, 79, 1],
