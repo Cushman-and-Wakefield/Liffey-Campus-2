@@ -73,10 +73,10 @@ define([
             url: "https://cwireland.maps.arcgis.com",           // portal URL for config
             webscene: "b05184fc92e4450cbeb99dfc35463e7b",   // portal item ID of the webscene
             usagename: "Use",                             // usage attribute (string)
-            floorname: "Floor",                           // floor attribute (int)
+            floorname: "Floor_1",                           // floor attribute (int)
             OIDname: "OBJECTID",                            // objectid
             buildingIDname: "BuildID",                   // building attribute (int)
-            areaname: "sq m",                           // area attribute (float)
+            areaname: "sq_m",                           // area attribute (float)
             color: [                                        // color ramp for unique value renderer
                     [178, 171, 210, 1],                     
                     [253, 174, 97, 1],
